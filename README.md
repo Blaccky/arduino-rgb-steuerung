@@ -8,6 +8,8 @@ Hier gehts weiter:
 
 -->[Unterstützt mich für weitere und bessere Projekte](https://www.patreon.com/user?u=16757999)
 
+-->[Projekt vorschlag gegen eine kleine Spende](https://www.patreon.com/join/2396022/checkout?rid=3270376)
+
 To-Do:
 
           * Farbwechselfunktion
